@@ -14,6 +14,6 @@ V1.0下载地址以及代码说明：http://www.lorna.com.cn/Articles/Index/d345
   
   你也可以修改DownloadHelper.cs 去调整你的目标
   
-欢迎访问我的博客
+欢迎访问我的博客,如果你觉得我讲的好可以在文章内打赏按钮赞助我~
 
-代码说明:www.lorna.com.cn
+代码说明:www.lorna.com.cn 搜索爬虫
