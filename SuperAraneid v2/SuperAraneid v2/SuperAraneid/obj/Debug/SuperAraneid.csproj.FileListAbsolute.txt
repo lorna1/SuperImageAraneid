@@ -1,0 +1,38 @@
+G:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe.config
+G:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe
+G:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FrmStrat.resources
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FromAbout.resources
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.Properties.Resources.resources
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csproj.GenerateResource.Cache
+G:\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.exe
+G:\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csprojResolveAssemblyReference.cache
+G:\项目\图片爬虫\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe.config
+G:\项目\图片爬虫\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.exe
+G:\项目\图片爬虫\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+G:\项目\图片爬虫\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe
+G:\项目\图片爬虫\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csprojResolveAssemblyReference.cache
+G:\项目\图片爬虫\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FrmStrat.resources
+G:\项目\图片爬虫\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FromAbout.resources
+G:\项目\图片爬虫\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.Properties.Resources.resources
+G:\项目\图片爬虫\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csproj.GenerateResource.Cache
+F:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe.config
+F:\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.exe
+F:\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+F:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FrmStrat.resources
+F:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FromAbout.resources
+F:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.Properties.Resources.resources
+F:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csproj.GenerateResource.Cache
+F:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe
+F:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+G:\项目\图片爬虫\SuperAraneid v2\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe.config
+G:\项目\图片爬虫\SuperAraneid v2\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.exe
+G:\项目\图片爬虫\SuperAraneid v2\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+G:\项目\图片爬虫\SuperAraneid v2\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe
+G:\项目\图片爬虫\SuperAraneid v2\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+G:\项目\图片爬虫\SuperAraneid v2\SuperAraneid\obj\Debug\SuperAraneid.csprojResolveAssemblyReference.cache
+G:\项目\图片爬虫\SuperAraneid v2\SuperAraneid\obj\Debug\SuperAraneid.FrmStrat.resources
+G:\项目\图片爬虫\SuperAraneid v2\SuperAraneid\obj\Debug\SuperAraneid.FromAbout.resources
+G:\项目\图片爬虫\SuperAraneid v2\SuperAraneid\obj\Debug\SuperAraneid.Properties.Resources.resources
+G:\项目\图片爬虫\SuperAraneid v2\SuperAraneid\obj\Debug\SuperAraneid.csproj.GenerateResource.Cache
